@@ -12,7 +12,7 @@ namespace N_Szab_extra_hmwrk
         {
             String input = "hellooo aaaaaaaaaaaasddldd ";
 
-            Template(input);
+            Process(input);
 
             Console.WriteLine($"\n-------\nEz a szöveg egy tömörített STRING , az eredeti szöveg : \n \"{input}\"\nA következőkben megadthat ön egy szöveg állományt amit le szeretne tömöríteni. \n-------");
 
@@ -20,12 +20,12 @@ namespace N_Szab_extra_hmwrk
 
             Console.WriteLine("-------");
 
-            Template(input);
+            Process(input);
 
             Console.ReadKey(true);
         }
 
-        public static void Template (String input)
+        public static void Process (String input)
         {
             String[] output = new string[50];
             int tmp = 0, outpi = 0;
