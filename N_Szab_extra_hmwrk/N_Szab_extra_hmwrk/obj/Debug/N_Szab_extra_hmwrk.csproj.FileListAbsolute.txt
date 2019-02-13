@@ -1,0 +1,7 @@
+C:\Users\SzabHUN\source\repos\N_Szab_extra_hmwrk\N_Szab_extra_hmwrk\obj\Debug\N_Szab_extra_hmwrk.csprojAssemblyReference.cache
+C:\Users\SzabHUN\source\repos\N_Szab_extra_hmwrk\N_Szab_extra_hmwrk\obj\Debug\N_Szab_extra_hmwrk.csproj.CoreCompileInputs.cache
+C:\Users\SzabHUN\source\repos\N_Szab_extra_hmwrk\N_Szab_extra_hmwrk\bin\Debug\N_Szab_extra_hmwrk.exe.config
+C:\Users\SzabHUN\source\repos\N_Szab_extra_hmwrk\N_Szab_extra_hmwrk\bin\Debug\N_Szab_extra_hmwrk.exe
+C:\Users\SzabHUN\source\repos\N_Szab_extra_hmwrk\N_Szab_extra_hmwrk\bin\Debug\N_Szab_extra_hmwrk.pdb
+C:\Users\SzabHUN\source\repos\N_Szab_extra_hmwrk\N_Szab_extra_hmwrk\obj\Debug\N_Szab_extra_hmwrk.exe
+C:\Users\SzabHUN\source\repos\N_Szab_extra_hmwrk\N_Szab_extra_hmwrk\obj\Debug\N_Szab_extra_hmwrk.pdb
